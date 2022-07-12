@@ -1,0 +1,11 @@
+.barra{
+    background: linear-gradient(180deg, #525257 0%, rgba(76, 97, 115, 0) 100%) !important;
+    padding-left: 40px;
+}
+
+.brand{
+    display: flex;
+    padding-right: 40px;
+    justify-content: center;
+    
+}

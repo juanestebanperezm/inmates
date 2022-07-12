@@ -1,0 +1,40 @@
+.imagen {
+  
+  width: 366px;
+  height: 137px;
+  margin: 4vh auto;
+}
+
+.contenedor{
+    margin:4vh auto;
+    
+}
+
+.contenedor-boton{
+    margin:4vh auto;
+    
+    
+}
+
+.boton{
+  background: linear-gradient(180deg, #D9B573 0%, #F2E291 100%);
+  border: none !important;
+  color: black;
+  padding: 5px 30px 5px 30px;
+}
+
+.text-about-2 {
+ padding-left: 20px;
+ padding-right: 20px;
+ color: #aaa;
+}
+
+.text-about-1 {
+  color: #fff;
+  font-size: 20px;
+}
+
+.hr-style {
+  height: 5px;
+  background: linear-gradient(180deg, #D9B573 50%, #F2E291 100%);
+}
