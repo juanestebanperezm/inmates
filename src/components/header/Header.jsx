@@ -22,9 +22,7 @@ function Header() {
             <Nav.Link className="mx-4" href="#home">
               About
             </Nav.Link>
-            <Nav.Link className="mx-4" href="#link">
-              Help
-            </Nav.Link>
+           
           </Nav>
         </Navbar.Collapse>
         <Navbar.Brand className="brand" href="#home">

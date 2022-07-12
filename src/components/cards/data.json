@@ -1,0 +1,49 @@
+[
+  {
+    "id": 0,
+    "title":"Local Messages",
+    "action":"https://www.paypal.com/cgi-bin/webscr",
+    "im":"../../src/assets/r1.png",
+    "texto": "We provide numbers that are near the institution where you loved one is located. The call rate drops from $0.21 to $0.06 per minute(For federal prisons, state and county rates may be different). That is how much your loved one will pay from the prison phone. With your payment, you purchase a package of up to 10 local numbers and minutes."
+  },
+  {
+    "id": 1,
+    "title":"Inmate Messages",
+    "action":"https://www.paypal.com/cgi-bin/webscr",
+    "im":"../../src/assets/r1.png",
+    "texto": "With this service you are able to send and receive messages from your loved one without having to login at corrlinks.com. Your loved one will get a telephone number assigned to his/her account so anyone can send messages into that number. It is the most popular way to stay in touch with your loved one."
+  },
+  {
+    "id": 2,
+    "title":"Pictures",
+    "action":"https://www.paypal.com/cgi-bin/webscr",
+    "im":"../../src/assets/r1.png",
+    "texto": "Using our services you will be able to upload , text or email pictures so we can print and mail them to your loved one. We process pictures every time we collect 25 and as long as he has picture credits."
+  }
+  ,
+  {
+    "id": 3,
+    "title":"Sports Service",
+    "action":"https://www.paypal.com/cgi-bin/webscr",
+    "im":"../../src/assets/r1.png",
+    "texto": "We provide sports information such as scores, lines, computer picks, expert picks and more to keep your loved one updated with the latest information on all major sports. Our software sends several messages a day with updates."
+  }
+  ,
+  {
+    "id": 4,
+    "title":"Phone + Text Combo",
+    "action":"https://www.paypal.com/cgi-bin/webscr",
+    "im":"../../src/assets/r1.png",
+    "texto": "Get a discount for having both services. Local Numbers and Inmate Messages in one package."
+  }
+  ,
+  {
+    "id": 5,
+    "title":"Messages + Pics Combo",
+    "action":"https://www.paypal.com/cgi-bin/webscr",
+    "im":"../../src/assets/r1.png",
+    "texto": "Get a discount for having both services. Inmate Messages and Picture packages in one place."
+  }
+  
+ 
+]

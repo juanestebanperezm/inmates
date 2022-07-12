@@ -1,0 +1,14 @@
+.card {
+  width: 290px ;
+  background: linear-gradient(180deg, #f2dc9b 0%, #bf843b 100%);
+  border-radius: 6px;
+}
+
+.card-title {
+  font-size: 1.1rem;
+}
+
+.btn {
+  padding-top: 0 !important;
+}
+
